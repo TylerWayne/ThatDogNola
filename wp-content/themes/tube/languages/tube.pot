@@ -1,0 +1,908 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-18 05:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:28
+msgctxt "404 page H1 in page masthead"
+msgid "Sorry!"
+msgstr ""
+
+#: 404.php:31
+#, php-format
+msgctxt "404 page next steps message"
+msgid "Page not found. Please start at the <a href=\"%1$s\">home page</a>."
+msgstr ""
+
+#: comments.php:52
+msgctxt "Comments header label based on comment count"
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:60
+msgctxt "Comment form anchor button"
+msgid "Add a Comment"
+msgstr ""
+
+#: comments.php:62
+msgctxt "Comment pagination"
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:64
+msgctxt "Comment pagination"
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:112
+msgid "Pingback"
+msgid_plural "Pingbacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:215
+msgctxt "Protected posts form intro text"
+msgid "This content is password protected. Please enter your password below."
+msgstr ""
+
+#: functions.php:219
+msgctxt "Protected posts form button text"
+msgid "Enter"
+msgstr ""
+
+#: header.php:75
+msgctxt "Label for search show/hide toggle"
+msgid "Toggle search"
+msgstr ""
+
+#: index.php:43
+#, php-format
+msgctxt "Search results heading"
+msgid "Results for %1$s"
+msgstr ""
+
+#: single.php:93
+msgctxt "Paginated post pagination label"
+msgid "Pages:"
+msgstr ""
+
+#: single.php:97
+msgctxt "Paginated post pagination page label for screenreaders"
+msgid "Page"
+msgstr ""
+
+#. Name of the template
+msgid "Terms List Template"
+msgstr ""
+
+#: classes/class-tube-archives.php:61
+msgctxt "yearly archives title label date format"
+msgid "Y"
+msgstr ""
+
+#: classes/class-tube-archives.php:65
+msgctxt "monthly archives title label date format"
+msgid "F Y"
+msgstr ""
+
+#: classes/class-tube-archives.php:69
+msgctxt "daily archives title label date format"
+msgid "F j, Y"
+msgstr ""
+
+#: classes/class-tube-archives.php:75
+msgctxt "post format archives title label"
+msgid "Asides"
+msgstr ""
+
+#: classes/class-tube-archives.php:79
+msgctxt "post format archives title label"
+msgid "Galleries"
+msgstr ""
+
+#: classes/class-tube-archives.php:83
+msgctxt "post format archives title label"
+msgid "Images"
+msgstr ""
+
+#: classes/class-tube-archives.php:87
+msgctxt "post format archives title label"
+msgid "Videos"
+msgstr ""
+
+#: classes/class-tube-archives.php:91
+msgctxt "post format archives title label"
+msgid "Quotes"
+msgstr ""
+
+#: classes/class-tube-archives.php:95
+msgctxt "post format archives title label"
+msgid "Links"
+msgstr ""
+
+#: classes/class-tube-archives.php:99
+msgctxt "post format archives title label"
+msgid "Statuses"
+msgstr ""
+
+#: classes/class-tube-archives.php:103
+msgctxt "post format archives title label"
+msgid "Audio"
+msgstr ""
+
+#: classes/class-tube-archives.php:107
+msgctxt "post format archives title label"
+msgid "Chats"
+msgstr ""
+
+#: classes/class-tube-archives.php:125
+msgctxt "Generic archive title label"
+msgid "Archives"
+msgstr ""
+
+#: classes/class-tube-archives.php:140
+msgctxt "Author archive masthead label"
+msgid "Author"
+msgstr ""
+
+#: classes/class-tube-archives.php:144
+msgctxt "Category archive masthead label"
+msgid "Category"
+msgstr ""
+
+#: classes/class-tube-archives.php:148
+msgctxt "Tag archive masthead label"
+msgid "Tag"
+msgstr ""
+
+#: classes/class-tube-archives.php:158
+msgctxt "Day archive masthead label"
+msgid "Day"
+msgstr ""
+
+#: classes/class-tube-archives.php:162
+msgctxt "Month archive masthead label"
+msgid "Month"
+msgstr ""
+
+#: classes/class-tube-archives.php:166
+msgctxt "Year archive masthead label"
+msgid "Year"
+msgstr ""
+
+#: classes/class-tube-back-compat.php:40
+#, php-format
+msgctxt ""
+"WP version upgrade required message, must have %1$s and %2$s placeholders"
+msgid ""
+"The .TUBE Theme requires at least WordPress version %1$s. You are running "
+"version %2$s. Please upgrade and try again."
+msgstr ""
+
+#: classes/class-tube-colors.php:189
+msgctxt "Color schemes: color scheme selector label"
+msgid "Color Scheme"
+msgstr ""
+
+#: classes/class-tube-colors.php:205
+msgctxt "Color schemes: color option label"
+msgid "Site Masthead Background Color"
+msgstr ""
+
+#: classes/class-tube-colors.php:219
+msgctxt "Color schemes: color option label"
+msgid "Page Background Color"
+msgstr ""
+
+#: classes/class-tube-colors.php:232
+msgctxt "Color schemes: color option label"
+msgid "Heading Color (e.g. H2)"
+msgstr ""
+
+#: classes/class-tube-colors.php:246
+msgctxt "Color schemes: color option label"
+msgid "Link Color"
+msgstr ""
+
+#: classes/class-tube-colors.php:260
+msgctxt "Color schemes: color option label"
+msgid "Main Text Color"
+msgstr ""
+
+#: classes/class-tube-colors.php:274
+msgctxt "Color schemes: color option label"
+msgid "Secondary Text Color"
+msgstr ""
+
+#: classes/class-tube-colors.php:289
+msgctxt "Color schemes: color option label"
+msgid "Footer Background Color"
+msgstr ""
+
+#: classes/class-tube-colors.php:303
+msgctxt "Color schemes: color option label"
+msgid "Footer Text Color"
+msgstr ""
+
+#: classes/class-tube-colors.php:317
+msgctxt "Color schemes: color option label"
+msgid "Footer Link Color"
+msgstr ""
+
+#: classes/class-tube-colors.php:336
+msgctxt "Custom CSS: textarea label"
+msgid "Custom CSS"
+msgstr ""
+
+#: classes/class-tube-colors.php:341
+msgctxt "Custom CSS: help text"
+msgid "Custom CSS has been migrated to the native Additional CSS area."
+msgstr ""
+
+#: classes/class-tube-colors.php:388
+msgctxt "Color schemes: scheme name"
+msgid "Default"
+msgstr ""
+
+#: classes/class-tube-colors.php:402
+msgctxt "Color schemes: scheme name"
+msgid "Citrus Blast"
+msgstr ""
+
+#: classes/class-tube-colors.php:416
+msgctxt "Color schemes: scheme name"
+msgid "Miami Vice"
+msgstr ""
+
+#: classes/class-tube-colors.php:430
+msgctxt "Color schemes: scheme name"
+msgid "Organic Honey"
+msgstr ""
+
+#: classes/class-tube-colors.php:444
+msgctxt "Color schemes: scheme name"
+msgid "Eclectic Eggplant"
+msgstr ""
+
+#: classes/class-tube-colors.php:462
+msgctxt "Color schemes: scheme name"
+msgid "&rsquo;Murica"
+msgstr ""
+
+#: classes/class-tube-colors.php:476
+msgctxt "Color schemes: scheme name"
+msgid "Bumble Bee"
+msgstr ""
+
+#: classes/class-tube-colors.php:490
+msgctxt "Color schemes: scheme name"
+msgid "Fresh Air"
+msgstr ""
+
+#: classes/class-tube-colors.php:504
+msgctxt "Color schemes: scheme name"
+msgid "Nolan Cyan"
+msgstr ""
+
+#: classes/class-tube-colors.php:518
+msgctxt "Color schemes: scheme name"
+msgid "Maize &amp; Blue"
+msgstr ""
+
+#: classes/class-tube-comments.php:151
+msgid "This comment is awaiting moderation."
+msgstr ""
+
+#: classes/class-tube-comments.php:214
+#, php-format
+msgctxt "Comment form: login required link and message"
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: classes/class-tube-comments.php:219
+#, php-format
+msgctxt "Comment form: already logged in message and logout link"
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Log out?</a>"
+msgstr ""
+
+#: classes/class-tube-comments.php:227
+#, php-format
+msgctxt "Comment form: required fields help text, %s is replaced with *"
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: classes/class-tube-comments.php:232
+msgctxt "Comment form: notes before comment field"
+msgid "Your email address will not be published."
+msgstr ""
+
+#: classes/class-tube-comments.php:236
+#, php-format
+msgctxt "Comment form: notes after comment field"
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: classes/class-tube-comments.php:245
+msgctxt "Comment form: name field label"
+msgid "Name"
+msgstr ""
+
+#: classes/class-tube-comments.php:251
+msgctxt "Comment form: email field label"
+msgid "Email"
+msgstr ""
+
+#: classes/class-tube-comments.php:257
+msgctxt "Comment form: website field label"
+msgid "Website"
+msgstr ""
+
+#: classes/class-tube-comments.php:268
+msgctxt "Comment form: reply form title"
+msgid "Add a Comment"
+msgstr ""
+
+#: classes/class-tube-comments.php:269
+#, php-format
+msgctxt "Comment form: reply to form title"
+msgid "Reply to %s"
+msgstr ""
+
+#: classes/class-tube-comments.php:270
+msgctxt "Comment form: cancel reply button  text"
+msgid "Cancel Reply"
+msgstr ""
+
+#: classes/class-tube-comments.php:271
+msgctxt "Comment form: submit comment button label"
+msgid "Post Comment"
+msgstr ""
+
+#: classes/class-tube-comments.php:274
+msgctxt "Comment form: comment field label"
+msgid "Comment"
+msgstr ""
+
+#: classes/class-tube-customizer.php:41
+msgctxt "Customizer: site identity section title"
+msgid "Logo, Title & Tagline"
+msgstr ""
+
+#: classes/class-tube-customizer.php:44
+msgctxt "Customizer: Home / latest posts media section title"
+msgid "Home / Latest Posts Media"
+msgstr ""
+
+#: classes/class-tube-footer.php:75
+msgctxt "Customizer: footer section title"
+msgid "Footer"
+msgstr ""
+
+#: classes/class-tube-footer.php:96
+msgctxt "Customizer: .TUBE footer link control label"
+msgid "Show .TUBE Link"
+msgstr ""
+
+#: classes/class-tube-footer.php:97
+msgctxt "Customizer: .TUBE footer link control description"
+msgid ""
+"Show some love for the .TUBE WordPress Theme with a link in your footer."
+msgstr ""
+
+#: classes/class-tube-footer.php:100
+msgctxt "Customizer: .TUBE footer link control value"
+msgid "Yes, show a .TUBE Theme link"
+msgstr ""
+
+#: classes/class-tube-footer.php:101
+msgctxt "Customizer: .TUBE footer link control value"
+msgid "No, please don&rsquo;t show a link"
+msgstr ""
+
+#: classes/class-tube-footer.php:200
+msgctxt "Footer: .TUBE link button text"
+msgid "About the .TUBE Theme"
+msgstr ""
+
+#: classes/class-tube-footer.php:234
+msgctxt "Customizer: copyright option label"
+msgid "Copyright Statement"
+msgstr ""
+
+#: classes/class-tube-footer.php:235
+msgctxt "Customizer: copryright control description"
+msgid "Use %site_name%, %year% and/or %tagline% as placeholders."
+msgstr ""
+
+#: classes/class-tube-footer.php:251
+msgctxt "Customizer: copyright option default value"
+msgid "&copy; &#37;site_name&#37;"
+msgstr ""
+
+#: classes/class-tube-footer.php:350
+msgctxt "Footer: social site name"
+msgid "YouTube"
+msgstr ""
+
+#: classes/class-tube-footer.php:351
+msgctxt "Footer: social site name"
+msgid "Facebook"
+msgstr ""
+
+#: classes/class-tube-footer.php:352
+msgctxt "Footer: social site name"
+msgid "Twitter"
+msgstr ""
+
+#: classes/class-tube-footer.php:353
+msgctxt "Footer: social site name"
+msgid "Instagram"
+msgstr ""
+
+#: classes/class-tube-footer.php:354
+msgctxt "Footer: social site name"
+msgid "Pinterest"
+msgstr ""
+
+#: classes/class-tube-footer.php:355
+msgctxt "Footer: social site name"
+msgid "LinkedIn"
+msgstr ""
+
+#: classes/class-tube-footer.php:356
+msgctxt "Footer: social site name"
+msgid "Google+"
+msgstr ""
+
+#: classes/class-tube-frontend-menus.php:63
+msgctxt "Menu name"
+msgid "1. Header Navbar"
+msgstr ""
+
+#: classes/class-tube-frontend-menus.php:66
+msgctxt "Menu name"
+msgid "2. Footer Navbar"
+msgstr ""
+
+#: classes/class-tube-frontend-menus.php:69
+msgctxt "Menu name"
+msgid "3. Legal Navbar"
+msgstr ""
+
+#: classes/class-tube-hero-video.php:82
+msgctxt "Video curator video placement option description"
+msgid ""
+"<strong>Hero:</strong> Insert video inside the &#8220;hero&#8220; area, "
+"above the post title"
+msgstr ""
+
+#: classes/class-tube-home-page.php:62
+msgctxt "Customizer: Home / latest posts settings section title"
+msgid "Home / Latest Posts Settings"
+msgstr ""
+
+#: classes/class-tube-home-page.php:64
+msgctxt "Customizer: Home section description"
+msgid ""
+"These settings control the &#8220;Latest Posts&#8221; page which is usually "
+"your home page, unless you use a static front page."
+msgstr ""
+
+#: classes/class-tube-home-page.php:80
+msgctxt "Customizer: home headline control label"
+msgid "Page Headline"
+msgstr ""
+
+#: classes/class-tube-home-page.php:81
+msgctxt "Customizer: home headline control description"
+msgid "Use %site_name% and/or %tagline% as placeholders."
+msgstr ""
+
+#: classes/class-tube-home-page.php:101
+msgctxt "Customizer: page excerpt control label"
+msgid "Page Excerpt"
+msgstr ""
+
+#: classes/class-tube-home-page.php:102
+msgctxt "Customizer: page excerpt control description"
+msgid "Use %site_name% and/or %tagline% as placeholders."
+msgstr ""
+
+#: classes/class-tube-home-page.php:126
+msgctxt "Customizer: home &#8220;hero&#8220; image position label"
+msgid "Image Position"
+msgstr ""
+
+#: classes/class-tube-home-page.php:127
+msgctxt "Customizer: home &#8220;hero&#8220; image position description"
+msgid "Choose how the image will be anchored to the page."
+msgstr ""
+
+#: classes/class-tube-home-page.php:150
+msgctxt "Customizer: featured \"sticky\" posts limit label"
+msgid "# of Featured Posts to Show"
+msgstr ""
+
+#: classes/class-tube-home-page.php:151
+msgctxt "Customizer: featured \"sticky\" posts limit description"
+msgid ""
+"Choose how many \"sticky\" posts to feature on the home page. You can make a "
+"post sticky in the post editor or quick-edit."
+msgstr ""
+
+#: classes/class-tube-home-page.php:154
+msgctxt "Customizer: label for no / zero featured \"sticky\" posts"
+msgid "None"
+msgstr ""
+
+#: classes/class-tube-images.php:381
+msgctxt "Featured image metabox: image position heading"
+msgid "Image Position"
+msgstr ""
+
+#: classes/class-tube-images.php:382
+msgctxt "Featured image metabox: image position description"
+msgid "Chose where the image is anchored to the page masthead."
+msgstr ""
+
+#: classes/class-tube-images.php:485
+msgctxt "Featured image metabox: gloryshot position label "
+msgid "center center"
+msgstr ""
+
+#: classes/class-tube-images.php:486
+msgctxt "Featured image metabox: gloryshot position label "
+msgid "center top"
+msgstr ""
+
+#: classes/class-tube-images.php:487
+msgctxt "Featured image metabox: gloryshot position label "
+msgid "right top"
+msgstr ""
+
+#: classes/class-tube-images.php:488
+msgctxt "Featured image metabox: gloryshot position label "
+msgid "right center"
+msgstr ""
+
+#: classes/class-tube-images.php:489
+msgctxt "Featured image metabox: gloryshot position label "
+msgid "right bottom"
+msgstr ""
+
+#: classes/class-tube-images.php:490
+msgctxt "Featured image metabox: gloryshot position label "
+msgid "center bottom"
+msgstr ""
+
+#: classes/class-tube-images.php:491
+msgctxt "Featured image metabox: gloryshot position label "
+msgid "left bottom"
+msgstr ""
+
+#: classes/class-tube-images.php:492
+msgctxt "Featured image metabox: gloryshot position label "
+msgid "left center"
+msgstr ""
+
+#: classes/class-tube-images.php:493
+msgctxt "Featured image metabox: gloryshot position label "
+msgid "left top"
+msgstr ""
+
+#: classes/class-tube-images.php:494
+msgctxt "Featured image metabox: gloryshot position label "
+msgid "none / do not show"
+msgstr ""
+
+#: classes/class-tube-labels.php:68
+msgctxt "Customizer: labels section title"
+msgid "Labels & Text Strings"
+msgstr ""
+
+#: classes/class-tube-labels.php:70
+msgctxt "Customizer: labels section description"
+msgid "These settings control various labels and text strings on the site."
+msgstr ""
+
+#: classes/class-tube-labels.php:86
+msgctxt "Customizer: labels & headings control label"
+msgid "Sticky / Featured Posts Heading"
+msgstr ""
+
+#: classes/class-tube-labels.php:87
+msgctxt "Customizer: labels & headings control description"
+msgid "The heading above sticky posts featured on the home page."
+msgstr ""
+
+#: classes/class-tube-labels.php:106
+msgctxt "Customizer: labels & headings control label"
+msgid "Posts List Heading"
+msgstr ""
+
+#: classes/class-tube-labels.php:107
+msgctxt "Customizer: labels & headings control description"
+msgid ""
+"The heading above post lists on the home page, index / archive pages, and "
+"below single post."
+msgstr ""
+
+#: classes/class-tube-labels.php:127
+msgctxt "Customizer: labels & headings control label"
+msgid "No Results Heading"
+msgstr ""
+
+#: classes/class-tube-labels.php:128
+msgctxt "Customizer: labels & headings control description"
+msgid "The heading above post lists when there are no results."
+msgstr ""
+
+#: classes/class-tube-labels.php:147
+msgctxt "Customizer: labels & headings control label"
+msgid "All Posts Button Text"
+msgstr ""
+
+#: classes/class-tube-labels.php:148
+msgctxt "Customizer: labels & headings control description"
+msgid "The button to view all posts under the recent posts below single post."
+msgstr ""
+
+#: classes/class-tube-labels.php:168
+msgctxt "Customizer: labels & headings control label"
+msgid "Search Placholder"
+msgstr ""
+
+#: classes/class-tube-labels.php:169
+msgctxt "Customizer: labels & headings control description"
+msgid "Appears inside the search box in the site header."
+msgstr ""
+
+#: classes/class-tube-labels.php:188
+msgctxt "Customizer: labels & headings control label"
+msgid "Search Results Heading Label"
+msgstr ""
+
+#: classes/class-tube-labels.php:189
+msgctxt "Customizer: labels & headings control description"
+msgid "Appears at the top of the search results page."
+msgstr ""
+
+#: classes/class-tube-labels.php:208
+msgctxt "Customizer: labels & headings control label"
+msgid "No Search Results Message"
+msgstr ""
+
+#: classes/class-tube-labels.php:209
+msgctxt "Customizer: labels & headings control description"
+msgid "Appears on the page when there are no search results."
+msgstr ""
+
+#: classes/class-tube-labels.php:225
+msgctxt "Customizer: default featured posts heading"
+msgid "Featured Posts"
+msgstr ""
+
+#: classes/class-tube-labels.php:251
+msgctxt "Customizer: default latest posts heading"
+msgid "Latest Posts"
+msgstr ""
+
+#: classes/class-tube-labels.php:277
+msgctxt "Customizer: default no results heading"
+msgid "Sorry, no results."
+msgstr ""
+
+#: classes/class-tube-labels.php:302
+msgctxt "Customizer: default see all new posts button text"
+msgid "See All New Posts"
+msgstr ""
+
+#: classes/class-tube-labels.php:328
+msgctxt "Customizer: default search placeholder"
+msgid "Search&hellip;"
+msgstr ""
+
+#: classes/class-tube-labels.php:354
+msgctxt "Customizer: default search results page masthead label"
+msgid "Search for"
+msgstr ""
+
+#: classes/class-tube-labels.php:378
+msgctxt "Customizer: default no search results message"
+msgid "Please try another search."
+msgstr ""
+
+#: classes/class-tube-labels.php:436
+msgctxt "Customizer: labels & headings control label"
+msgid "Post List Label Taxonomy"
+msgstr ""
+
+#: classes/class-tube-labels.php:437
+msgctxt "Customizer: labels & headings control description"
+msgid ""
+"Show a term label above post title lists. Will show Yoast SEO &#8220;"
+"primary&#8221; term if available."
+msgstr ""
+
+#: classes/class-tube-pagination.php:101
+msgctxt "Pagination: prev / next post links (used on single post page)"
+msgid "Previous"
+msgstr ""
+
+#: classes/class-tube-pagination.php:107
+msgctxt "Pagination: prev / next post links (used on single post page)"
+msgid "Next"
+msgstr ""
+
+#: classes/class-tube-pagination.php:208
+msgctxt "Pagination: prev / next image links (used on single attachment page)"
+msgid "Previous Image"
+msgstr ""
+
+#: classes/class-tube-pagination.php:209
+msgctxt "Pagination: prev / next image links (used on single attachment page)"
+msgid "Next Image"
+msgstr ""
+
+#: classes/class-tube-pagination.php:316
+msgctxt "Pagination: prev / next posts nav (used on archive pages)"
+msgid "Previous"
+msgstr ""
+
+#: classes/class-tube-pagination.php:320
+msgctxt "Pagination: prev / next posts nav (used on archive pages)"
+msgid "Next"
+msgstr ""
+
+#: classes/class-tube-pagination.php:448
+#, php-format
+msgctxt "Paginated archives label"
+msgid "Page %1$d of %2$s"
+msgstr ""
+
+#: classes/class-tube-post-meta.php:110
+msgctxt "Post meta: time title attribute (use PHP date / time formatting)"
+msgid "l, F jS, Y, g:i a"
+msgstr ""
+
+#: classes/class-tube-post-meta.php:117
+msgctxt "Post meta: No comments"
+msgid "No Comments"
+msgstr ""
+
+#: classes/class-tube-post-meta.php:118
+msgctxt "Post meta: One comment"
+msgid "1 Comment"
+msgstr ""
+
+#: classes/class-tube-post-meta.php:119
+msgctxt "Post meta: More than one comments"
+msgid "% Comments"
+msgstr ""
+
+#: classes/class-tube-sidebars.php:46
+msgctxt "Sidebar name"
+msgid "Top / Above Content"
+msgstr ""
+
+#: classes/class-tube-sidebars.php:48
+msgctxt "Sidebar description"
+msgid ""
+"Widgets in this area will be shown ABOVE THE CONTENT on all posts and pages."
+msgstr ""
+
+#: classes/class-tube-sidebars.php:63
+msgctxt "Sidebar name"
+msgid "Bottom / Below Content"
+msgstr ""
+
+#: classes/class-tube-sidebars.php:65
+msgctxt "Sidebar description"
+msgid ""
+"Widgets in this area will be shown BELOW THE CONTENT on all posts and pages."
+msgstr ""
+
+#. slug
+#: classes/class-tube-taxonomy.php:51
+msgctxt "Terms list metabox: metabox title"
+msgid "Terms List Settings"
+msgstr ""
+
+#: classes/class-tube-taxonomy.php:86
+msgctxt "Terms list metabox: taxonomy dropdown label"
+msgid "Taxonomy"
+msgstr ""
+
+#: classes/class-tube-taxonomy.php:120
+msgctxt "Terms list metabox: order by drodpown label"
+msgid "Order By"
+msgstr ""
+
+#: classes/class-tube-taxonomy.php:151
+msgctxt "Terms list metabox: order drodpown label"
+msgid "Order"
+msgstr ""
+
+#: classes/class-tube-taxonomy.php:299
+msgctxt "Terms list metabox: orderby option"
+msgid "Name"
+msgstr ""
+
+#: classes/class-tube-taxonomy.php:300
+msgctxt "Terms list metabox: orderby option"
+msgid "Count"
+msgstr ""
+
+#: classes/class-tube-taxonomy.php:301
+msgctxt "Terms list metabox: orderby option"
+msgid "Slug"
+msgstr ""
+
+#: classes/class-tube-taxonomy.php:302
+msgctxt "Terms list metabox: orderby option"
+msgid "ID"
+msgstr ""
+
+#: classes/class-tube-taxonomy.php:365
+msgctxt "Terms list metabox: order option"
+msgid "Ascending"
+msgstr ""
+
+#: classes/class-tube-taxonomy.php:366
+msgctxt "Terms list metabox: order option"
+msgid "Descending"
+msgstr ""
+
+#: classes/class-tube-taxonomy.php:494
+#, php-format
+msgctxt ""
+"Text when no available terms on terms list template. Use %s placeholder for "
+"lowercase taxonomy name."
+msgid "No %s found."
+msgstr ""
+
+#: classes/class-tube-taxonomy.php:633
+msgctxt "Heading for associated terms on single post"
+msgid "More Like This"
+msgstr ""
+
+#. Name of the theme
+msgid "TUBE"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"The .TUBE WordPress Theme is designed for people who create and share video, "
+"and also works great for photographers, journalists, and more. It provides a "
+"modern Booststrap-based layout with large featured images, and looks great "
+"on mobile, tablet, and desktop. Plus, the .TUBE Theme for WordPress has "
+"plenty of customization options, is child-theme-friendly, and includes tons "
+"of action hooks and filters for the more technically inclined."
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.get.tube/wordpress/tube-theme"
+msgstr ""
+
+#. Author of the theme
+msgid ".TUBE gTLD"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.get.tube"
+msgstr ""
